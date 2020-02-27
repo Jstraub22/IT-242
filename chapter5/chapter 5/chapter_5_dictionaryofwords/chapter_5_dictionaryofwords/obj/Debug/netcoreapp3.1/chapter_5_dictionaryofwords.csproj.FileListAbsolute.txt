@@ -1,0 +1,11 @@
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.exe
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.deps.json
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.runtimeconfig.json
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.runtimeconfig.dev.json
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.dll
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\bin\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.pdb
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\obj\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.csprojAssemblyReference.cache
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\obj\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.AssemblyInfoInputs.cache
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\obj\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.AssemblyInfo.cs
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\obj\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.dll
+C:\Users\straub2\source\repos\chapter_5_dictionaryofwords\chapter_5_dictionaryofwords\obj\Debug\netcoreapp3.1\chapter_5_dictionaryofwords.pdb

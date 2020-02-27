@@ -1,0 +1,11 @@
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.exe
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.deps.json
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.runtimeconfig.json
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.runtimeconfig.dev.json
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.dll
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\bin\Debug\netcoreapp3.1\chapter_5extcredt.pdb
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\obj\Debug\netcoreapp3.1\chapter_5extcredt.csprojAssemblyReference.cache
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\obj\Debug\netcoreapp3.1\chapter_5extcredt.AssemblyInfoInputs.cache
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\obj\Debug\netcoreapp3.1\chapter_5extcredt.AssemblyInfo.cs
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\obj\Debug\netcoreapp3.1\chapter_5extcredt.dll
+C:\Users\straub2\source\repos\chapter_5extcredt\chapter_5extcredt\obj\Debug\netcoreapp3.1\chapter_5extcredt.pdb
